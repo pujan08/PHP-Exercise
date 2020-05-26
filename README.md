@@ -1,0 +1,2 @@
+# PHP-Exercise
+Variable declaration
